@@ -1,0 +1,11 @@
+section {
+    border: 1px solid blue;
+}
+
+div {
+    border: .5px solid red;
+}
+
+article {
+    border: 1px solid green;
+}
